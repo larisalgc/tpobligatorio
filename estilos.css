@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    position: relative;
+    scroll-behavior: smooth;
+}
+body {
+    padding-right: 2.7px;
+}
+.logo {
+    width: 100px;
+    height: 55px;
+}
+nav {
+    background-color: #353a40;
+    height: 80px !important;
+}
+#ticketsnav{
+    color:rgb(67, 194, 53);
+}
+#tickets {
+    background-color: rgb(67, 194, 53) !important;
+}
+.card-img{
+    height: 550px;
+    filter: brightness(50%);
+}
+.conf-bsas{
+    margin-top: 200px;
+    margin-right: 100px;
+} 
+#losOradores{
+    margin-bottom: 30px;
+}
+.oradores{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+#conviértete{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.anotate{
+    text-align: center;
+}
+.col-card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-text{
+    font-size: 13px;
+}
+.lugaryfecha{
+    padding-top: 300px !important;
+}
+.playa {
+    margin-right: 1px;
+    padding-right: 0px;
+    width: 50%;
+}
+.gris {
+    background-color: #353a40;
+    color: white;
+}
+.texto {
+    font-size: 13px;
+}
+.puntos{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.btn-enviar{
+    background-color: rgb(121, 223, 74) !important;
+    color: white;
+    margin: 10px;
+    width: 97%;
+}
+#hablar{
+    color: rgb(119, 125, 128);
+    font-size: 18px;
+}
+footer{
+    background: linear-gradient(rgb(54, 90, 104), rgb(5, 54, 80));
+    padding: 20px;
+    height: 80px;
+    text-align: center;
+    align-items: center !important;
+    vertical-align: middle !important;
+    font-size: small;
+    color:white;
+}
